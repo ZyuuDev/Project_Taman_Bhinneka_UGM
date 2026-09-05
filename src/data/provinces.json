@@ -1,0 +1,686 @@
+[
+  {
+    "id": "aceh",
+    "code": "ID-AC",
+    "name": {
+      "id": "Aceh",
+      "en": "Aceh"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Aceh merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Aceh is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/aceh/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sumatera-utara",
+    "code": "ID-SU",
+    "name": {
+      "id": "Sumatera Utara",
+      "en": "Sumatera Utara"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Sumatera Utara merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sumatera Utara is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sumatera-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sumatera-barat",
+    "code": "ID-SB",
+    "name": {
+      "id": "Sumatera Barat",
+      "en": "Sumatera Barat"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Sumatera Barat merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sumatera Barat is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sumatera-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "riau",
+    "code": "ID-RI",
+    "name": {
+      "id": "Riau",
+      "en": "Riau"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Riau merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Riau is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/riau/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jambi",
+    "code": "ID-JA",
+    "name": {
+      "id": "Jambi",
+      "en": "Jambi"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Jambi merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Jambi is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/jambi/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sumatera-selatan",
+    "code": "ID-SS",
+    "name": {
+      "id": "Sumatera Selatan",
+      "en": "Sumatera Selatan"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Sumatera Selatan merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sumatera Selatan is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sumatera-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "bengkulu",
+    "code": "ID-BE",
+    "name": {
+      "id": "Bengkulu",
+      "en": "Bengkulu"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Bengkulu merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Bengkulu is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/bengkulu/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "lampung",
+    "code": "ID-LA",
+    "name": {
+      "id": "Lampung",
+      "en": "Lampung"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Lampung merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Lampung is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/lampung/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kepulauan-bangka-belitung",
+    "code": "ID-BB",
+    "name": {
+      "id": "Kepulauan Bangka Belitung",
+      "en": "Kepulauan Bangka Belitung"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Kepulauan Bangka Belitung merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kepulauan Bangka Belitung is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kepulauan-bangka-belitung/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kepulauan-riau",
+    "code": "ID-KR",
+    "name": {
+      "id": "Kepulauan Riau",
+      "en": "Kepulauan Riau"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Provinsi Kepulauan Riau merupakan wilayah administratif yang terletak di Sumatera. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kepulauan Riau is an administrative region located on the island of Sumatra. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kepulauan-riau/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "dki-jakarta",
+    "code": "ID-JK",
+    "name": {
+      "id": "DKI Jakarta",
+      "en": "DKI Jakarta"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Provinsi DKI Jakarta merupakan wilayah administratif yang terletak di Jawa. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of DKI Jakarta is an administrative region located on the island of Java. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/dki-jakarta/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jawa-barat",
+    "code": "ID-JB",
+    "name": {
+      "id": "Jawa Barat",
+      "en": "Jawa Barat"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Provinsi Jawa Barat merupakan wilayah administratif yang terletak di Jawa. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Jawa Barat is an administrative region located on the island of Java. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/jawa-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jawa-tengah",
+    "code": "ID-JT",
+    "name": {
+      "id": "Jawa Tengah",
+      "en": "Jawa Tengah"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Provinsi Jawa Tengah merupakan wilayah administratif yang terletak di Jawa. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Jawa Tengah is an administrative region located on the island of Java. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/jawa-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "di-yogyakarta",
+    "code": "ID-YO",
+    "name": {
+      "id": "DI Yogyakarta",
+      "en": "DI Yogyakarta"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Provinsi DI Yogyakarta merupakan wilayah administratif yang terletak di Jawa. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of DI Yogyakarta is an administrative region located on the island of Java. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/di-yogyakarta/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jawa-timur",
+    "code": "ID-JI",
+    "name": {
+      "id": "Jawa Timur",
+      "en": "Jawa Timur"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Provinsi Jawa Timur merupakan wilayah administratif yang terletak di Jawa. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Jawa Timur is an administrative region located on the island of Java. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/jawa-timur/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "banten",
+    "code": "ID-BT",
+    "name": {
+      "id": "Banten",
+      "en": "Banten"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Provinsi Banten merupakan wilayah administratif yang terletak di Jawa. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Banten is an administrative region located on the island of Java. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/banten/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "bali",
+    "code": "ID-BA",
+    "name": {
+      "id": "Bali",
+      "en": "Bali"
+    },
+    "island": {
+      "id": "Kepulauan Nusa Tenggara",
+      "en": "Lesser Sunda Islands"
+    },
+    "description": {
+      "id": "Provinsi Bali merupakan wilayah administratif yang terletak di Kepulauan Nusa Tenggara. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Bali is an administrative region located on the island of Lesser Sunda Islands. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/bali/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "nusa-tenggara-barat",
+    "code": "ID-NB",
+    "name": {
+      "id": "Nusa Tenggara Barat",
+      "en": "Nusa Tenggara Barat"
+    },
+    "island": {
+      "id": "Kepulauan Nusa Tenggara",
+      "en": "Lesser Sunda Islands"
+    },
+    "description": {
+      "id": "Provinsi Nusa Tenggara Barat merupakan wilayah administratif yang terletak di Kepulauan Nusa Tenggara. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Nusa Tenggara Barat is an administrative region located on the island of Lesser Sunda Islands. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/nusa-tenggara-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "nusa-tenggara-timur",
+    "code": "ID-NT",
+    "name": {
+      "id": "Nusa Tenggara Timur",
+      "en": "Nusa Tenggara Timur"
+    },
+    "island": {
+      "id": "Kepulauan Nusa Tenggara",
+      "en": "Lesser Sunda Islands"
+    },
+    "description": {
+      "id": "Provinsi Nusa Tenggara Timur merupakan wilayah administratif yang terletak di Kepulauan Nusa Tenggara. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Nusa Tenggara Timur is an administrative region located on the island of Lesser Sunda Islands. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/nusa-tenggara-timur/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-barat",
+    "code": "ID-KB",
+    "name": {
+      "id": "Kalimantan Barat",
+      "en": "Kalimantan Barat"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Provinsi Kalimantan Barat merupakan wilayah administratif yang terletak di Kalimantan. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kalimantan Barat is an administrative region located on the island of Kalimantan. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kalimantan-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-tengah",
+    "code": "ID-KT",
+    "name": {
+      "id": "Kalimantan Tengah",
+      "en": "Kalimantan Tengah"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Provinsi Kalimantan Tengah merupakan wilayah administratif yang terletak di Kalimantan. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kalimantan Tengah is an administrative region located on the island of Kalimantan. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kalimantan-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-selatan",
+    "code": "ID-KS",
+    "name": {
+      "id": "Kalimantan Selatan",
+      "en": "Kalimantan Selatan"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Provinsi Kalimantan Selatan merupakan wilayah administratif yang terletak di Kalimantan. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kalimantan Selatan is an administrative region located on the island of Kalimantan. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kalimantan-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-timur",
+    "code": "ID-KI",
+    "name": {
+      "id": "Kalimantan Timur",
+      "en": "Kalimantan Timur"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Provinsi Kalimantan Timur merupakan wilayah administratif yang terletak di Kalimantan. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kalimantan Timur is an administrative region located on the island of Kalimantan. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kalimantan-timur/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-utara",
+    "code": "ID-KU",
+    "name": {
+      "id": "Kalimantan Utara",
+      "en": "Kalimantan Utara"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Provinsi Kalimantan Utara merupakan wilayah administratif yang terletak di Kalimantan. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Kalimantan Utara is an administrative region located on the island of Kalimantan. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/kalimantan-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-utara",
+    "code": "ID-SA",
+    "name": {
+      "id": "Sulawesi Utara",
+      "en": "Sulawesi Utara"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Provinsi Sulawesi Utara merupakan wilayah administratif yang terletak di Sulawesi. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sulawesi Utara is an administrative region located on the island of Sulawesi. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sulawesi-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-tengah",
+    "code": "ID-ST",
+    "name": {
+      "id": "Sulawesi Tengah",
+      "en": "Sulawesi Tengah"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Provinsi Sulawesi Tengah merupakan wilayah administratif yang terletak di Sulawesi. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sulawesi Tengah is an administrative region located on the island of Sulawesi. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sulawesi-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-selatan",
+    "code": "ID-SN",
+    "name": {
+      "id": "Sulawesi Selatan",
+      "en": "Sulawesi Selatan"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Provinsi Sulawesi Selatan merupakan wilayah administratif yang terletak di Sulawesi. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sulawesi Selatan is an administrative region located on the island of Sulawesi. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sulawesi-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-tenggara",
+    "code": "ID-SG",
+    "name": {
+      "id": "Sulawesi Tenggara",
+      "en": "Sulawesi Tenggara"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Provinsi Sulawesi Tenggara merupakan wilayah administratif yang terletak di Sulawesi. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sulawesi Tenggara is an administrative region located on the island of Sulawesi. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sulawesi-tenggara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "gorontalo",
+    "code": "ID-GO",
+    "name": {
+      "id": "Gorontalo",
+      "en": "Gorontalo"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Provinsi Gorontalo merupakan wilayah administratif yang terletak di Sulawesi. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Gorontalo is an administrative region located on the island of Sulawesi. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/gorontalo/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-barat",
+    "code": "ID-SR",
+    "name": {
+      "id": "Sulawesi Barat",
+      "en": "Sulawesi Barat"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Provinsi Sulawesi Barat merupakan wilayah administratif yang terletak di Sulawesi. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Sulawesi Barat is an administrative region located on the island of Sulawesi. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/sulawesi-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "maluku",
+    "code": "ID-MA",
+    "name": {
+      "id": "Maluku",
+      "en": "Maluku"
+    },
+    "island": {
+      "id": "Kepulauan Maluku",
+      "en": "Maluku Islands"
+    },
+    "description": {
+      "id": "Provinsi Maluku merupakan wilayah administratif yang terletak di Kepulauan Maluku. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Maluku is an administrative region located on the island of Maluku Islands. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/maluku/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "maluku-utara",
+    "code": "ID-MU",
+    "name": {
+      "id": "Maluku Utara",
+      "en": "Maluku Utara"
+    },
+    "island": {
+      "id": "Kepulauan Maluku",
+      "en": "Maluku Islands"
+    },
+    "description": {
+      "id": "Provinsi Maluku Utara merupakan wilayah administratif yang terletak di Kepulauan Maluku. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Maluku Utara is an administrative region located on the island of Maluku Islands. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/maluku-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua",
+    "code": "ID-PA",
+    "name": {
+      "id": "Papua",
+      "en": "Papua"
+    },
+    "island": {
+      "id": "Pulau Papua",
+      "en": "Papua"
+    },
+    "description": {
+      "id": "Provinsi Papua merupakan wilayah administratif yang terletak di Pulau Papua. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Papua is an administrative region located on the island of Papua. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/papua/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-barat",
+    "code": "ID-PB",
+    "name": {
+      "id": "Papua Barat",
+      "en": "Papua Barat"
+    },
+    "island": {
+      "id": "Pulau Papua",
+      "en": "Papua"
+    },
+    "description": {
+      "id": "Provinsi Papua Barat merupakan wilayah administratif yang terletak di Pulau Papua. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Papua Barat is an administrative region located on the island of Papua. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/papua-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-selatan",
+    "code": "ID-PS",
+    "name": {
+      "id": "Papua Selatan",
+      "en": "Papua Selatan"
+    },
+    "island": {
+      "id": "Pulau Papua",
+      "en": "Papua"
+    },
+    "description": {
+      "id": "Provinsi Papua Selatan merupakan wilayah administratif yang terletak di Pulau Papua. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Papua Selatan is an administrative region located on the island of Papua. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/papua-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-tengah",
+    "code": "ID-PT",
+    "name": {
+      "id": "Papua Tengah",
+      "en": "Papua Tengah"
+    },
+    "island": {
+      "id": "Pulau Papua",
+      "en": "Papua"
+    },
+    "description": {
+      "id": "Provinsi Papua Tengah merupakan wilayah administratif yang terletak di Pulau Papua. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Papua Tengah is an administrative region located on the island of Papua. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/papua-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-pegunungan",
+    "code": "ID-PE",
+    "name": {
+      "id": "Papua Pegunungan",
+      "en": "Papua Pegunungan"
+    },
+    "island": {
+      "id": "Pulau Papua",
+      "en": "Papua"
+    },
+    "description": {
+      "id": "Provinsi Papua Pegunungan merupakan wilayah administratif yang terletak di Pulau Papua. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Papua Pegunungan is an administrative region located on the island of Papua. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/papua-pegunungan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-barat-daya",
+    "code": "ID-PD",
+    "name": {
+      "id": "Papua Barat Daya",
+      "en": "Papua Barat Daya"
+    },
+    "island": {
+      "id": "Pulau Papua",
+      "en": "Papua"
+    },
+    "description": {
+      "id": "Provinsi Papua Barat Daya merupakan wilayah administratif yang terletak di Pulau Papua. Secara administratif, provinsi ini tercatat sebagai entitas daerah otonom resmi di Indonesia.",
+      "en": "The province of Papua Barat Daya is an administrative region located on the island of Papua. Administratively, this province is recorded as an official autonomous region in Indonesia."
+    },
+    "heroImage": "/assets/provinces/papua-barat-daya/hero.webp",
+    "categories": []
+  }
+]
