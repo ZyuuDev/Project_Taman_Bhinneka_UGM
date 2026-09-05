@@ -1,0 +1,686 @@
+[
+  {
+    "id": "aceh",
+    "code": "ID-AC",
+    "name": {
+      "id": "Aceh",
+      "en": "Aceh"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Aceh merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Banda Aceh.",
+      "en": "Aceh is an Indonesian province in the Sumatra region. Its capital is Banda Aceh."
+    },
+    "heroImage": "/assets/provinces/aceh/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sumatera-utara",
+    "code": "ID-SU",
+    "name": {
+      "id": "Sumatera Utara",
+      "en": "North Sumatra"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Sumatera Utara merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Medan.",
+      "en": "North Sumatra is an Indonesian province in the Sumatra region. Its capital is Medan."
+    },
+    "heroImage": "/assets/provinces/sumatera-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sumatera-barat",
+    "code": "ID-SB",
+    "name": {
+      "id": "Sumatera Barat",
+      "en": "West Sumatra"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Sumatera Barat merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Padang.",
+      "en": "West Sumatra is an Indonesian province in the Sumatra region. Its capital is Padang."
+    },
+    "heroImage": "/assets/provinces/sumatera-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "riau",
+    "code": "ID-RI",
+    "name": {
+      "id": "Riau",
+      "en": "Riau"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Riau merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Pekanbaru.",
+      "en": "Riau is an Indonesian province in the Sumatra region. Its capital is Pekanbaru."
+    },
+    "heroImage": "/assets/provinces/riau/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jambi",
+    "code": "ID-JA",
+    "name": {
+      "id": "Jambi",
+      "en": "Jambi"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Jambi merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Jambi.",
+      "en": "Jambi is an Indonesian province in the Sumatra region. Its capital is Jambi."
+    },
+    "heroImage": "/assets/provinces/jambi/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sumatera-selatan",
+    "code": "ID-SS",
+    "name": {
+      "id": "Sumatera Selatan",
+      "en": "South Sumatra"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Sumatera Selatan merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Palembang.",
+      "en": "South Sumatra is an Indonesian province in the Sumatra region. Its capital is Palembang."
+    },
+    "heroImage": "/assets/provinces/sumatera-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "bengkulu",
+    "code": "ID-BE",
+    "name": {
+      "id": "Bengkulu",
+      "en": "Bengkulu"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Bengkulu merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Bengkulu.",
+      "en": "Bengkulu is an Indonesian province in the Sumatra region. Its capital is Bengkulu."
+    },
+    "heroImage": "/assets/provinces/bengkulu/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "lampung",
+    "code": "ID-LA",
+    "name": {
+      "id": "Lampung",
+      "en": "Lampung"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Lampung merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Bandar Lampung.",
+      "en": "Lampung is an Indonesian province in the Sumatra region. Its capital is Bandar Lampung."
+    },
+    "heroImage": "/assets/provinces/lampung/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kepulauan-bangka-belitung",
+    "code": "ID-BB",
+    "name": {
+      "id": "Kepulauan Bangka Belitung",
+      "en": "Bangka Belitung Islands"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Kepulauan Bangka Belitung merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Pangkalpinang.",
+      "en": "Bangka Belitung Islands is an Indonesian province in the Sumatra region. Its capital is Pangkalpinang."
+    },
+    "heroImage": "/assets/provinces/kepulauan-bangka-belitung/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kepulauan-riau",
+    "code": "ID-KR",
+    "name": {
+      "id": "Kepulauan Riau",
+      "en": "Riau Islands"
+    },
+    "island": {
+      "id": "Sumatera",
+      "en": "Sumatra"
+    },
+    "description": {
+      "id": "Kepulauan Riau merupakan provinsi Indonesia dalam gugus wilayah Sumatera. Ibu kotanya adalah Tanjungpinang.",
+      "en": "Riau Islands is an Indonesian province in the Sumatra region. Its capital is Tanjungpinang."
+    },
+    "heroImage": "/assets/provinces/kepulauan-riau/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "dki-jakarta",
+    "code": "ID-JK",
+    "name": {
+      "id": "DKI Jakarta",
+      "en": "DKI Jakarta"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "DKI Jakarta merupakan provinsi Indonesia dalam gugus wilayah Jawa. Ibu kotanya adalah Jakarta.",
+      "en": "DKI Jakarta is an Indonesian province in the Java region. Its capital is Jakarta."
+    },
+    "heroImage": "/assets/provinces/dki-jakarta/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jawa-barat",
+    "code": "ID-JB",
+    "name": {
+      "id": "Jawa Barat",
+      "en": "West Java"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Jawa Barat merupakan provinsi Indonesia dalam gugus wilayah Jawa. Ibu kotanya adalah Bandung.",
+      "en": "West Java is an Indonesian province in the Java region. Its capital is Bandung."
+    },
+    "heroImage": "/assets/provinces/jawa-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jawa-tengah",
+    "code": "ID-JT",
+    "name": {
+      "id": "Jawa Tengah",
+      "en": "Central Java"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Jawa Tengah merupakan provinsi Indonesia dalam gugus wilayah Jawa. Ibu kotanya adalah Semarang.",
+      "en": "Central Java is an Indonesian province in the Java region. Its capital is Semarang."
+    },
+    "heroImage": "/assets/provinces/jawa-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "di-yogyakarta",
+    "code": "ID-YO",
+    "name": {
+      "id": "DI Yogyakarta",
+      "en": "Special Region of Yogyakarta"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "DI Yogyakarta merupakan provinsi Indonesia dalam gugus wilayah Jawa. Ibu kotanya adalah Yogyakarta.",
+      "en": "Special Region of Yogyakarta is an Indonesian province in the Java region. Its capital is Yogyakarta."
+    },
+    "heroImage": "/assets/provinces/di-yogyakarta/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "jawa-timur",
+    "code": "ID-JI",
+    "name": {
+      "id": "Jawa Timur",
+      "en": "East Java"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Jawa Timur merupakan provinsi Indonesia dalam gugus wilayah Jawa. Ibu kotanya adalah Surabaya.",
+      "en": "East Java is an Indonesian province in the Java region. Its capital is Surabaya."
+    },
+    "heroImage": "/assets/provinces/jawa-timur/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "banten",
+    "code": "ID-BT",
+    "name": {
+      "id": "Banten",
+      "en": "Banten"
+    },
+    "island": {
+      "id": "Jawa",
+      "en": "Java"
+    },
+    "description": {
+      "id": "Banten merupakan provinsi Indonesia dalam gugus wilayah Jawa. Ibu kotanya adalah Serang.",
+      "en": "Banten is an Indonesian province in the Java region. Its capital is Serang."
+    },
+    "heroImage": "/assets/provinces/banten/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "bali",
+    "code": "ID-BA",
+    "name": {
+      "id": "Bali",
+      "en": "Bali"
+    },
+    "island": {
+      "id": "Bali–Nusa Tenggara",
+      "en": "Bali and Nusa Tenggara"
+    },
+    "description": {
+      "id": "Bali merupakan provinsi Indonesia dalam gugus wilayah Bali–Nusa Tenggara. Ibu kotanya adalah Denpasar.",
+      "en": "Bali is an Indonesian province in the Bali and Nusa Tenggara region. Its capital is Denpasar."
+    },
+    "heroImage": "/assets/provinces/bali/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "nusa-tenggara-barat",
+    "code": "ID-NB",
+    "name": {
+      "id": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara"
+    },
+    "island": {
+      "id": "Bali–Nusa Tenggara",
+      "en": "Bali and Nusa Tenggara"
+    },
+    "description": {
+      "id": "Nusa Tenggara Barat merupakan provinsi Indonesia dalam gugus wilayah Bali–Nusa Tenggara. Ibu kotanya adalah Mataram.",
+      "en": "West Nusa Tenggara is an Indonesian province in the Bali and Nusa Tenggara region. Its capital is Mataram."
+    },
+    "heroImage": "/assets/provinces/nusa-tenggara-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "nusa-tenggara-timur",
+    "code": "ID-NT",
+    "name": {
+      "id": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara"
+    },
+    "island": {
+      "id": "Bali–Nusa Tenggara",
+      "en": "Bali and Nusa Tenggara"
+    },
+    "description": {
+      "id": "Nusa Tenggara Timur merupakan provinsi Indonesia dalam gugus wilayah Bali–Nusa Tenggara. Ibu kotanya adalah Kupang.",
+      "en": "East Nusa Tenggara is an Indonesian province in the Bali and Nusa Tenggara region. Its capital is Kupang."
+    },
+    "heroImage": "/assets/provinces/nusa-tenggara-timur/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-barat",
+    "code": "ID-KB",
+    "name": {
+      "id": "Kalimantan Barat",
+      "en": "West Kalimantan"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Kalimantan Barat merupakan provinsi Indonesia dalam gugus wilayah Kalimantan. Ibu kotanya adalah Pontianak.",
+      "en": "West Kalimantan is an Indonesian province in the Kalimantan region. Its capital is Pontianak."
+    },
+    "heroImage": "/assets/provinces/kalimantan-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-tengah",
+    "code": "ID-KT",
+    "name": {
+      "id": "Kalimantan Tengah",
+      "en": "Central Kalimantan"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Kalimantan Tengah merupakan provinsi Indonesia dalam gugus wilayah Kalimantan. Ibu kotanya adalah Palangka Raya.",
+      "en": "Central Kalimantan is an Indonesian province in the Kalimantan region. Its capital is Palangka Raya."
+    },
+    "heroImage": "/assets/provinces/kalimantan-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-selatan",
+    "code": "ID-KS",
+    "name": {
+      "id": "Kalimantan Selatan",
+      "en": "South Kalimantan"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Kalimantan Selatan merupakan provinsi Indonesia dalam gugus wilayah Kalimantan. Ibu kotanya adalah Banjarbaru.",
+      "en": "South Kalimantan is an Indonesian province in the Kalimantan region. Its capital is Banjarbaru."
+    },
+    "heroImage": "/assets/provinces/kalimantan-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-timur",
+    "code": "ID-KI",
+    "name": {
+      "id": "Kalimantan Timur",
+      "en": "East Kalimantan"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Kalimantan Timur merupakan provinsi Indonesia dalam gugus wilayah Kalimantan. Ibu kotanya adalah Samarinda.",
+      "en": "East Kalimantan is an Indonesian province in the Kalimantan region. Its capital is Samarinda."
+    },
+    "heroImage": "/assets/provinces/kalimantan-timur/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "kalimantan-utara",
+    "code": "ID-KU",
+    "name": {
+      "id": "Kalimantan Utara",
+      "en": "North Kalimantan"
+    },
+    "island": {
+      "id": "Kalimantan",
+      "en": "Kalimantan"
+    },
+    "description": {
+      "id": "Kalimantan Utara merupakan provinsi Indonesia dalam gugus wilayah Kalimantan. Ibu kotanya adalah Tanjung Selor.",
+      "en": "North Kalimantan is an Indonesian province in the Kalimantan region. Its capital is Tanjung Selor."
+    },
+    "heroImage": "/assets/provinces/kalimantan-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-utara",
+    "code": "ID-SA",
+    "name": {
+      "id": "Sulawesi Utara",
+      "en": "North Sulawesi"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Sulawesi Utara merupakan provinsi Indonesia dalam gugus wilayah Sulawesi. Ibu kotanya adalah Manado.",
+      "en": "North Sulawesi is an Indonesian province in the Sulawesi region. Its capital is Manado."
+    },
+    "heroImage": "/assets/provinces/sulawesi-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-tengah",
+    "code": "ID-ST",
+    "name": {
+      "id": "Sulawesi Tengah",
+      "en": "Central Sulawesi"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Sulawesi Tengah merupakan provinsi Indonesia dalam gugus wilayah Sulawesi. Ibu kotanya adalah Palu.",
+      "en": "Central Sulawesi is an Indonesian province in the Sulawesi region. Its capital is Palu."
+    },
+    "heroImage": "/assets/provinces/sulawesi-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-selatan",
+    "code": "ID-SN",
+    "name": {
+      "id": "Sulawesi Selatan",
+      "en": "South Sulawesi"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Sulawesi Selatan merupakan provinsi Indonesia dalam gugus wilayah Sulawesi. Ibu kotanya adalah Makassar.",
+      "en": "South Sulawesi is an Indonesian province in the Sulawesi region. Its capital is Makassar."
+    },
+    "heroImage": "/assets/provinces/sulawesi-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-tenggara",
+    "code": "ID-SG",
+    "name": {
+      "id": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Sulawesi Tenggara merupakan provinsi Indonesia dalam gugus wilayah Sulawesi. Ibu kotanya adalah Kendari.",
+      "en": "Southeast Sulawesi is an Indonesian province in the Sulawesi region. Its capital is Kendari."
+    },
+    "heroImage": "/assets/provinces/sulawesi-tenggara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "gorontalo",
+    "code": "ID-GO",
+    "name": {
+      "id": "Gorontalo",
+      "en": "Gorontalo"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Gorontalo merupakan provinsi Indonesia dalam gugus wilayah Sulawesi. Ibu kotanya adalah Gorontalo.",
+      "en": "Gorontalo is an Indonesian province in the Sulawesi region. Its capital is Gorontalo."
+    },
+    "heroImage": "/assets/provinces/gorontalo/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "sulawesi-barat",
+    "code": "ID-SR",
+    "name": {
+      "id": "Sulawesi Barat",
+      "en": "West Sulawesi"
+    },
+    "island": {
+      "id": "Sulawesi",
+      "en": "Sulawesi"
+    },
+    "description": {
+      "id": "Sulawesi Barat merupakan provinsi Indonesia dalam gugus wilayah Sulawesi. Ibu kotanya adalah Mamuju.",
+      "en": "West Sulawesi is an Indonesian province in the Sulawesi region. Its capital is Mamuju."
+    },
+    "heroImage": "/assets/provinces/sulawesi-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "maluku",
+    "code": "ID-MA",
+    "name": {
+      "id": "Maluku",
+      "en": "Maluku"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Maluku merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Ambon.",
+      "en": "Maluku is an Indonesian province in the Maluku and Papua region. Its capital is Ambon."
+    },
+    "heroImage": "/assets/provinces/maluku/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "maluku-utara",
+    "code": "ID-MU",
+    "name": {
+      "id": "Maluku Utara",
+      "en": "North Maluku"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Maluku Utara merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Sofifi.",
+      "en": "North Maluku is an Indonesian province in the Maluku and Papua region. Its capital is Sofifi."
+    },
+    "heroImage": "/assets/provinces/maluku-utara/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua",
+    "code": "ID-PA",
+    "name": {
+      "id": "Papua",
+      "en": "Papua"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Papua merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Jayapura.",
+      "en": "Papua is an Indonesian province in the Maluku and Papua region. Its capital is Jayapura."
+    },
+    "heroImage": "/assets/provinces/papua/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-barat",
+    "code": "ID-PB",
+    "name": {
+      "id": "Papua Barat",
+      "en": "West Papua"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Papua Barat merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Manokwari.",
+      "en": "West Papua is an Indonesian province in the Maluku and Papua region. Its capital is Manokwari."
+    },
+    "heroImage": "/assets/provinces/papua-barat/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-selatan",
+    "code": "ID-PS",
+    "name": {
+      "id": "Papua Selatan",
+      "en": "South Papua"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Papua Selatan merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Merauke.",
+      "en": "South Papua is an Indonesian province in the Maluku and Papua region. Its capital is Merauke."
+    },
+    "heroImage": "/assets/provinces/papua-selatan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-tengah",
+    "code": "ID-PT",
+    "name": {
+      "id": "Papua Tengah",
+      "en": "Central Papua"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Papua Tengah merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Nabire.",
+      "en": "Central Papua is an Indonesian province in the Maluku and Papua region. Its capital is Nabire."
+    },
+    "heroImage": "/assets/provinces/papua-tengah/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-pegunungan",
+    "code": "ID-PE",
+    "name": {
+      "id": "Papua Pegunungan",
+      "en": "Highland Papua"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Papua Pegunungan merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kota Provinsi Papua Pegunungan berkedudukan di Kabupaten Jayawijaya.",
+      "en": "Highland Papua is an Indonesian province in the Maluku and Papua region. The provincial capital is located in Jayawijaya Regency."
+    },
+    "heroImage": "/assets/provinces/papua-pegunungan/hero.webp",
+    "categories": []
+  },
+  {
+    "id": "papua-barat-daya",
+    "code": "ID-PD",
+    "name": {
+      "id": "Papua Barat Daya",
+      "en": "Southwest Papua"
+    },
+    "island": {
+      "id": "Maluku–Papua",
+      "en": "Maluku and Papua"
+    },
+    "description": {
+      "id": "Papua Barat Daya merupakan provinsi Indonesia dalam gugus wilayah Maluku–Papua. Ibu kotanya adalah Sorong.",
+      "en": "Southwest Papua is an Indonesian province in the Maluku and Papua region. Its capital is Sorong."
+    },
+    "heroImage": "/assets/provinces/papua-barat-daya/hero.webp",
+    "categories": []
+  }
+]
