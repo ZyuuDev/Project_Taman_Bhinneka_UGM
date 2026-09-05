@@ -19,10 +19,10 @@ body {
   color: var(--color-text-main);
 
   /*
-   * Poppins local font — REQUESTED FROM FADIL.
-   * No local Poppins files found; using system-ui stack as safe fallback.
-   * Once Poppins .woff2 files are available in public/assets/fonts/,
-   * add @font-face declarations above and update font-family here.
+   * Poppins local font — FRONTEND/FAIRUZ AREA.
+   * File font belum tersedia, sementara menggunakan system-ui sebagai fallback.
+   * Catatan: DILARANG meminta font kepada Fadil. Tambahkan font secara mandiri
+   * saat file .woff2 sudah siap.
    */
   font-family: 'Poppins', system-ui, -apple-system, sans-serif;
 
