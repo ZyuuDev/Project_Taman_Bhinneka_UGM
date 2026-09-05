@@ -1,0 +1,98 @@
+[
+  {
+    "id": "seni-kriya",
+    "name": {
+      "id": "Seni & Kriya",
+      "en": "Arts & Crafts"
+    },
+    "description": {
+      "id": "Karya seni dan kerajinan tradisional yang mencerminkan keterampilan dan ekspresi budaya masyarakat.",
+      "en": "Traditional arts and crafts that reflect community skills and cultural expression."
+    },
+    "icon": "Palette"
+  },
+  {
+    "id": "tari",
+    "name": {
+      "id": "Seni Tari",
+      "en": "Traditional Dance"
+    },
+    "description": {
+      "id": "Seni gerak tradisional yang diwariskan dan dipentaskan dalam kehidupan masyarakat.",
+      "en": "Traditional dances passed down and performed in community life."
+    },
+    "icon": "PersonStanding"
+  },
+  {
+    "id": "musik",
+    "name": {
+      "id": "Musik & Alat Musik",
+      "en": "Music & Instruments"
+    },
+    "description": {
+      "id": "Musik dan alat musik tradisional yang digunakan dalam kehidupan budaya masyarakat.",
+      "en": "Traditional music and instruments used in the cultural life of communities."
+    },
+    "icon": "Music"
+  },
+  {
+    "id": "busana",
+    "name": {
+      "id": "Pakaian Tradisional",
+      "en": "Traditional Attire"
+    },
+    "description": {
+      "id": "Pakaian dan perlengkapan busana tradisional yang digunakan dalam konteks sosial dan budaya.",
+      "en": "Traditional clothing and attire used in social and cultural contexts."
+    },
+    "icon": "Shirt"
+  },
+  {
+    "id": "rumah-adat",
+    "name": {
+      "id": "Arsitektur & Rumah Adat",
+      "en": "Traditional Architecture"
+    },
+    "description": {
+      "id": "Arsitektur dan rumah adat yang mencerminkan pengetahuan, lingkungan, dan cara hidup masyarakat.",
+      "en": "Traditional architecture and houses that reflect community knowledge, environments, and ways of life."
+    },
+    "icon": "House"
+  },
+  {
+    "id": "kuliner",
+    "name": {
+      "id": "Kuliner Tradisional",
+      "en": "Traditional Cuisine"
+    },
+    "description": {
+      "id": "Makanan, minuman, dan praktik kuliner tradisional yang diwariskan dalam masyarakat.",
+      "en": "Traditional foods, drinks, and culinary practices passed down within communities."
+    },
+    "icon": "CookingPot"
+  },
+  {
+    "id": "tradisi",
+    "name": {
+      "id": "Upacara & Tradisi",
+      "en": "Ceremonies & Rituals"
+    },
+    "description": {
+      "id": "Upacara, ritual, dan kebiasaan tradisional yang dijalankan dalam kehidupan masyarakat.",
+      "en": "Traditional ceremonies, rituals, and customs practiced in community life."
+    },
+    "icon": "Landmark"
+  },
+  {
+    "id": "kain-tradisional",
+    "name": {
+      "id": "Kain & Tekstil Tradisional",
+      "en": "Traditional Textiles"
+    },
+    "description": {
+      "id": "Kain dan tekstil tradisional yang dibuat melalui beragam teknik serta digunakan dalam konteks budaya.",
+      "en": "Traditional fabrics and textiles created through diverse techniques and used in cultural contexts."
+    },
+    "icon": "SwatchBook"
+  }
+]
