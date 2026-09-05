@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "batik-kawung-yogyakarta",
+    "provinceId": "di-yogyakarta",
+    "categoryId": "kain-tradisional",
+    "name": {
+      "id": "Batik Kawung",
+      "en": "Kawung Batik"
+    },
+    "shortDescription": {
+      "id": "Motif Kawung merupakan pola geometris yang penggunaannya diatur dalam tradisi batik larangan Keraton Yogyakarta.",
+      "en": "The Kawung motif is a geometric pattern whose use is regulated within the batik larangan tradition of Keraton Yogyakarta."
+    },
+    "description": {
+      "id": "Motif Kawung tersusun dari empat bentuk elips yang mengelilingi satu pusat. Dalam penjelasan Keraton Yogyakarta, susunan ini dikenal sebagai keblat papat lima pancer dan dikaitkan dengan empat sumber tenaga alam atau empat penjuru mata angin. Penggunaan motif Kawung diatur di lingkungan Keraton Yogyakarta sebagai bagian dari tradisi batik larangan.",
+      "en": "The Kawung motif consists of four elliptical shapes surrounding a center. In the Yogyakarta Palace account, this arrangement is known as keblat papat lima pancer and is associated with four sources of natural energy or the four cardinal directions. Use of the Kawung motif is regulated within Keraton Yogyakarta as part of its batik larangan tradition."
+    },
+    "image": "/assets/cultures/di-yogyakarta/batik-kawung-yogyakarta.webp",
+    "imageAlt": {
+      "id": "Detail pola batik Kawung kemplung berulang dengan bentuk bulat putih, belah ketupat cokelat, dan aksen bunga biru.",
+      "en": "Close-up of a repeating Kawung kemplung batik pattern with white rounded forms, brown diamond shapes, and blue floral accents."
+    },
+    "sourceUrl": "https://www.kratonjogja.id/en/kagungan-dalem/12-motif-batik-larangan-keraton-yogyakarta/",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Collectie_NMvWereldculturen,_RV-847-76,_Batikpatroon,_%27Kawung_kemplung%27,_voor_1891.jpg"
+  }
+]
