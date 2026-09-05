@@ -249,7 +249,9 @@
       "en": "Special Region of Yogyakarta is an Indonesian province in the Java region. Its capital is Yogyakarta."
     },
     "heroImage": "/assets/provinces/di-yogyakarta/hero.webp",
-    "categories": []
+    "categories": [
+      "kain-tradisional"
+    ]
   },
   {
     "id": "jawa-timur",
