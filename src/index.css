@@ -1,20 +1,38 @@
 @import "tailwindcss";
 
 @theme {
-  --color-bone: #F8F0E5;
-  --color-forest: #1A3C1A;
-  --color-brown: #7A4E2D;
-  --color-surface: #FFFDF9;
-  --color-border-subtle: #D8CBBE;
-  --color-text-main: #1D1D1B;
-  --color-text-muted: #6F6A63;
+  /* ── Core brand palette ─────────────────────────────────────── */
+  --color-bone:         #F8F0E5;   /* Main background */
+  --color-forest:       #1A3C1A;   /* Primary CTA, headings, active states */
+  --color-brown:        #7A4E2D;   /* Secondary accent, borders, ornaments */
+
+  /* ── Neutral surface & text ─────────────────────────────────── */
+  --color-surface:      #FFFDF9;   /* Card / panel background */
+  --color-text-main:    #1D1D1B;   /* Main body text */
+  --color-text-muted:   #6F6A63;   /* Secondary labels, captions */
+  --color-border-subtle: #D8CBBE;  /* Hairline dividers */
 }
 
+/* ── Base styles ────────────────────────────────────────────── */
 body {
   background-color: var(--color-bone);
   color: var(--color-text-main);
-  font-family: 'Poppins', sans-serif;
+
+  /*
+   * Poppins local font — REQUESTED FROM FADIL.
+   * No local Poppins files found; using system-ui stack as safe fallback.
+   * Once Poppins .woff2 files are available in public/assets/fonts/,
+   * add @font-face declarations above and update font-family here.
+   */
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+
+  /* Kiosk touch baseline */
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
   user-select: none;
+}
+
+/* ── Scrollable pages ────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
 }
